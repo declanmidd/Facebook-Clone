@@ -7,15 +7,14 @@ This project is merly on developmental purposes, upscaling and learning techstac
 
 | Frontend  | Backend                          
 | :-------- | --------
-| React     | Firebase
-| Nextjs    | Next-Auth
+| React     | Firebase 
 | Scss      |
 | HeroIcons |
 
 
 
 ## Author
-- [@DevDeclann](https://www.github.com/DevDeclann)
+- [@declanmidd](https://www.github.com/declanmidd)
 
 
 ## Support
